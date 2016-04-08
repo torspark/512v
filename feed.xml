@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>512 Volleyball</title>
+  <subtitle>Where Players Come 1st. Great Players, Great Coaches. Club Volleyball Program in &amp; around Austin, TX (Cedar Park, Dripping Springs, Georgetown, Hutto, Leander, Round Rock)</subtitle>
+  <id>http://512volleyball.com</id>
+  <link href="http://512volleyball.com"/>
+  <link href="http://512volleyball.com/feed.xml" rel="self"/>
+  <author>
+    <name>Chris Olds</name>
+  </author>
+</feed>
